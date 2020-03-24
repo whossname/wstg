@@ -257,7 +257,7 @@ The correct approach is a balanced approach that includes several techniques, fr
 
 Of course there are times and circumstances where only one technique is possible. For example, consider a test of a web application that has already been created, but where the testing party does not have access to the source code. In this case, penetration testing is clearly better than no testing at all. However, the testing parties should be encouraged to challenge assumptions, such as not having access to source code, and to explore the possibility of more complete testing.
 
-A balanced approach varies depending on many factors, such as the maturity of the testing process and corporate culture. It is recommended that a balanced testing framework should look something like the representations shown in Figure 3 and Figure 4. The following figure shows a typical proportional representation overlaid onto the SLDC. In keeping with research and experience, it is essential that companies place a higher emphasis on the early stages of development.
+A balanced approach varies depending on many factors, such as the maturity of the testing process and corporate culture. It is recommended that a balanced testing framework should look something like the representations shown in Figure 3 and Figure 4. The following figure shows a typical proportional representation overlaid onto the SDLC. In keeping with research and experience, it is essential that companies place a higher emphasis on the early stages of development.
 
 ![Proportion of Test Effort in SDLC](images/ProportionSDLC.png)\
 *Figure 2-3: Proportion of Test Effort in SDLC*
